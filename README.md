@@ -1,5 +1,8 @@
-# layermanager
+# LayerManager
 A simple python script making you able to automatically download &amp; install all of 7GranDad's Translation Layers.
+
+# Important
+### Windows will ask you, if you are sure if you wanna run the application, this is totally normal because it's made by an unknown publisher. The file is safe to run. If you don't trust me, decompile it yourself and check the code.
 
 # Usage Guide:
 
