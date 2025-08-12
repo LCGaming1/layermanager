@@ -34,10 +34,12 @@ A new tab should open up asking you if you want to install the userscript, press
 and open up "https://bloxd.io/" in your browser. If the captcha doesn't complete automatically, complete it manually. It should then say "Bloxd Communication Script Status: Sent!".
 You can now *theoretically* join it using localhost, you won't be able to move since Bloxd uses a different set of physics than normal Minecraft.
 ### Clients with Scripts for Bloxd Movement (Free):
-Liquidbounce Nextgen (ALSO HAS A MODULE FOR IT NOW - NAMED BLOXD PHYSICS)/LiquidBounce Legacy, Script at https://discord.gg/3WVeCpshhk in #bloxd-stuff or https://discord.gg/UaUsWSEkyT in #scripts in category minecraft.
+- Liquidbounce Nextgen (ALSO HAS A MODULE FOR IT NOW - NAMED BLOXD PHYSICS)
+- LiquidBounce Legacy
+- Scripts at https://discord.gg/3WVeCpshhk in #bloxd-stuff or https://discord.gg/UaUsWSEkyT in #scripts in category minecraft.
 
 ### Clients with built-in Modules for Bloxd Movement (Paid):
-Neon (https://neonclient.com/ - 23€) - Enable **MoveFix** and choose **Bloxd** as mode or just load my config from the online configs.
-Rise (https://riseclient.com/ - $34.99) - Just **load the config Bloxd** and you're good to go.
-Astralis (https://discord.gg/Q2QMJPuG6z - 28,99 €) - Enable the module **Bloxd Movement**.
-Terminus (https://terminusclient.com/ - 45€) - Enable Movement Correction and select the mode "**Voxel Game Physics**".
+- Neon (https://neonclient.com/ - 23€) - Enable **MoveFix** and choose **Bloxd** as mode or just load my config from the online configs.
+- Rise (https://riseclient.com/ - $34.99) - Just **load the config Bloxd** and you're good to go.
+- Astralis (https://discord.gg/Q2QMJPuG6z - 28,99 €) - Enable the module **Bloxd Movement**.
+- Terminus (https://terminusclient.com/ - 45€) - Enable Movement Correction and select the mode "**Voxel Game Physics**".
