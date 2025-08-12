@@ -24,6 +24,20 @@ To "join" MiniBlox, the steps are the same as in 4, but since MiniBlox's Predict
 you need to send C0CInput packets along with ticks to be able to move which only a few client's have.
 ### Clients with MiniBlox MoveFixes:
 Free: LiquidBounce (https://liquidbounce.net/ - Disabler Mode MiniBlox)
-Paid: Neon (https://neonclient.com/ - MoveFix Mode MiniBlox), Augustus (https://discord.gg/FgBMFjanrc/ - Disabler Mode MiniBlox)
+Paid: Neon (https://neonclient.com/ - MoveFix Mode MiniBlox), Augustus (https://discord.gg/FgBMFjanrc/ - Disabler Mode MiniBlox) Terminus (https://terminusclient.com/- Disabler Mode Miniblox Input - **HAS A FLY**)
 
 ## 6. How to join BloxD
+To join BloxD you first need to install Firefox from https://www.firefox.com/en/thanks/ as it's the browser the Layer Manager uses to start the layer.
+Once you installed Firefox, install the Tampermonkey Extension from https://www.tampermonkey.net/. After installing it, open up the extension and click "Create a new script...".
+Then press Win+R on your keyboard and type "%appdata%\.layermanager\BloxD", then press enter. In the folder, drag n drop the file "tampermonkey.js" onto your "<New userscript>" tab in Firefox.
+A new tab should open up asking you if you want to install the userscript, press "Install". Then press the "BloxD" button in the Layer Manager, it should update the layer if it isn't up to date already
+and open up "https://bloxd.io/" in your browser. If the captcha doesn't complete automatically, complete it manually. It should then say "Bloxd Communication Script Status: Sent!".
+You can now *theoretically* join it using localhost, you won't be able to move since Bloxd uses a different set of physics than normal Minecraft.
+### Clients with Scripts for Bloxd Movement (Free):
+Liquidbounce Nextgen (ALSO HAS A MODULE FOR IT NOW - NAMED BLOXD PHYSICS)/LiquidBounce Legacy, Script at https://discord.gg/3WVeCpshhk in #bloxd-stuff or https://discord.gg/UaUsWSEkyT in #scripts in category minecraft.
+
+### Clients with built-in Modules for Bloxd Movement (Paid):
+Neon (https://neonclient.com/ - 23€) - Enable **MoveFix** and choose **Bloxd** as mode or just load my config from the online configs.
+Rise (https://riseclient.com/ - $34.99) - Just **load the config Bloxd** and you're good to go.
+Astralis (https://discord.gg/Q2QMJPuG6z - 28,99 €) - Enable the module **Bloxd Movement**.
+Terminus (https://terminusclient.com/ - 45€) - Enable Movement Correction and select the mode "**Voxel Game Physics**".
