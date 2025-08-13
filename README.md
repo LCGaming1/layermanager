@@ -26,8 +26,12 @@ To join the server, simply connect to "localhost" through your multiplayer menu 
 To "join" MiniBlox, the steps are the same as in 4, but since MiniBlox's Prediction AntiCheat came out,
 you need to send C0CInput packets along with ticks to be able to move which only a few client's have.
 ### Clients with MiniBlox MoveFixes:
-Free: LiquidBounce (https://liquidbounce.net/ - Disabler Mode MiniBlox)
-Paid: Neon (https://neonclient.com/ - MoveFix Mode MiniBlox), Augustus (https://discord.gg/FgBMFjanrc/ - Disabler Mode MiniBlox) Terminus (https://terminusclient.com/- Disabler Mode Miniblox Input - **HAS A FLY**)
+**Free**: 
+- LiquidBounce (https://liquidbounce.net/ - Disabler Mode MiniBlox)
+**Paid**:
+- Neon (https://neonclient.com/ - MoveFix Mode MiniBlox)
+- Augustus (https://discord.gg/FgBMFjanrc/ - Disabler Mode MiniBlox)
+- Terminus (https://terminusclient.com/- Disabler Mode Miniblox Input - **HAS A FLY**)
 
 ## 6. How to join BloxD
 To join BloxD you first need to install Firefox from https://www.firefox.com/en/thanks/ as it's the browser the Layer Manager uses to start the layer.
