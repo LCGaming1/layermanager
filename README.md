@@ -28,6 +28,7 @@ you need to send C0CInput packets along with ticks to be able to move which only
 ### Clients with MiniBlox MoveFixes:
 **Free**: 
 - LiquidBounce (https://liquidbounce.net/ - Disabler Mode MiniBlox)
+
 **Paid**:
 - Neon (https://neonclient.com/ - MoveFix Mode MiniBlox)
 - Augustus (https://discord.gg/FgBMFjanrc/ - Disabler Mode MiniBlox)
